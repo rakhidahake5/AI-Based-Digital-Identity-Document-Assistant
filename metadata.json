@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Digital Identity & Document Assistant",
+  "description": "Securely upload, organize, search, and understand your personal documents using Artificial Intelligence. Features OCR, smart categorization, AI summary, semantic search, expiry alerts, and an interactive document assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
